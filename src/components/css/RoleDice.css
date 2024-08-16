@@ -1,0 +1,11 @@
+.roledice_container{
+   
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.roledice_container img{
+        width: 200px;
+        /* width: 20%; */
+}

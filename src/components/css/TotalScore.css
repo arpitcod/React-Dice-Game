@@ -1,0 +1,15 @@
+.score_container{
+    /* border: 1px solid red; */ 
+    width: 200px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.score_container h1{
+    font-size: 100px;
+}
+.score_container p{
+    font-size: 25px;
+    font-weight: 500;
+}
